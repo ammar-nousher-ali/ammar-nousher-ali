@@ -10,13 +10,13 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Android Kotlin
 -->
 - 🌱 I’m currently learning Android architecture components
-- 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about Android , Kotlin , Java , MVVM
 - 📫 How to reach me: ammarnousher773@gmail.com
 <!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+- 👯 I’m looking to collaborate on open source projects
 
 - 🤔 I’m looking for help with ...
 -->
