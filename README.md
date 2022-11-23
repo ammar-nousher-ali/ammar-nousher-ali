@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 ### Tools and languages:
 
+[<img alt="android" width="40px" src="/assets/images/icons8-android-os-96.png" />](https://developer.android.com/)
 
 [![android](/assets/images/icons8-android-os-96.png)](https://developer.android.com/)
 ![icons8-android-os-96](https://user-images.githubusercontent.com/50176159/203555368-1d39522c-be3b-40d7-9eb9-d532a21da158.png)
