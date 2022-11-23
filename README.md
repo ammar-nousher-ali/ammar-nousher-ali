@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ammarnousher773@gmail.com
 
 ![icons8-android-os-96](https://user-images.githubusercontent.com/50176159/203555368-1d39522c-be3b-40d7-9eb9-d532a21da158.png)
-
+![icons8-android-os-48](https://user-images.githubusercontent.com/50176159/203556075-6c796779-88f0-4bda-887b-2b57cd30c334.png)
 
 
 <!--
