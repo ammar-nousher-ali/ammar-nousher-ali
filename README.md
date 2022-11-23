@@ -15,15 +15,7 @@ Here are some ideas to get you started:
 
 ### Tools and languages:
 
-[<img alt="android" width="40px" src="/assets/images/icons8-android-os-96.png" />](https://developer.android.com/)
-
-[![android](/assets/images/icons8-android-os-96.png)](https://developer.android.com/)
-![icons8-android-os-96](https://user-images.githubusercontent.com/50176159/203555368-1d39522c-be3b-40d7-9eb9-d532a21da158.png)
-![icons8-android-studio-96](https://user-images.githubusercontent.com/50176159/203556428-b8d93403-268e-49dc-b22e-2109922bd27a.png)
-![icons8-kotlin-96](https://user-images.githubusercontent.com/50176159/203556497-5f423fde-fdf5-4f05-b880-7eb961baaf6b.png)
-![icons8-java-96](https://user-images.githubusercontent.com/50176159/203556561-1f3306a9-d1ee-47ab-a5a1-ba0d0a6c5f6b.png)
-![icons8-git-96](https://user-images.githubusercontent.com/50176159/203556619-126c3c16-1678-4b17-bc5a-c7b3804ed788.png)
-![icons8-firebase-96](https://user-images.githubusercontent.com/50176159/203556739-83b881fb-c01d-48d2-abdd-aa7df68fbcc0.png)
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  </p>
 
 
 ### Connect with me:
