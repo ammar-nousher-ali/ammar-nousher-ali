@@ -15,7 +15,16 @@ Here are some ideas to get you started:
 
 ### Tools and languages:
 
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="assets/android-os-48.png" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  </p>
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/ammar-nousher-ali/ammar-nousher-ali/main/assets/android-os-48.png" alt="android" width="40" height="40"/> </a>
+     <a href="https://firebase.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/ammar-nousher-ali/ammar-nousher-ali/main/assets/firebase-96.png" alt="firebase" width="40" height="40"/> </a>
+     <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/ammar-nousher-ali/ammar-nousher-ali/main/assets/git-96.png" alt="git" width="40" height="40"/> </a>
+      <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/ammar-nousher-ali/ammar-nousher-ali/main/assets/java-96.png" alt="java" width="40" height="40"/> </a> 
+      <a href="https://kotlinlang.org" target="_blank"> <img src="https://raw.githubusercontent.com/ammar-nousher-ali/ammar-nousher-ali/main/assets/kotlin-96.png" alt="kotlin" width="40" height="40"/> </a>
+      <a href="https://developer.android.com/studio?gclid=EAIaIQobChMI9oXx4prG-wIVF-13Ch3kywMcEAAYASAAEgJgU_D_BwE&gclsrc=aw.ds" target="_blank"> <img src="https://raw.githubusercontent.com/ammar-nousher-ali/ammar-nousher-ali/main/assets/android-studio-96.png" alt="kotlin" width="40" height="40"/> </a>
+         </p>
+
+
+
 
 
 ### Connect with me:
