@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-![icons8-linkedin-96](https://user-images.githubusercontent.com/50176159/203557595-e4d89fec-b842-411e-8ece-14a42b2589df.svg)
-![icons8-stack-overflow-is-a-question-and-answer-site-for-professional-96](https://user-images.githubusercontent.com/50176159/203558293-ec79a165-409a-45cd-86ef-d3c623854969.png)
+<p align="left"> <a href="https://www.linkedin.com/in/ammar-nousher-393036205/" target="_blank"> <img src="https://raw.githubusercontent.com/ammar-nousher-ali/ammar-nousher-ali/main/assets/ic_linkedin-96.png" alt="android" width="40" height="40"/> </a>
+     <a href="https://stackoverflow.com/users/13174552/ammar" target="_blank"> <img src="https://raw.githubusercontent.com/ammar-nousher-ali/ammar-nousher-ali/main/assets/stack-overflow-96.png" alt="firebase" width="40" height="40"/> </a>         </p>
 
 
 
