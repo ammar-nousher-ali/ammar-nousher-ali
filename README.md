@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Android Kotlin
 -->
-- 🌱 I’m currently learning Android architecture components
+- 🌱 I’m currently learning Android architecture components & Jetpack Compose.
 - 💬 Ask me about Android , Kotlin , Java , MVVM
 - 📫 How to reach me: ammarnousher773@gmail.com
 
