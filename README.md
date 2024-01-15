@@ -15,16 +15,14 @@ Here are some ideas to get you started:
 
 ### Tools and languages:
 
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/ammar-nousher-ali/ammar-nousher-ali/main/assets/android-os-48.png" alt="android" width="40" height="40"/> </a>
+<p align="left"> 
+     <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/ammar-nousher-ali/ammar-nousher-ali/main/assets/android-os-48.png" alt="android" width="40" height="40"/> </a>
      <a href="https://firebase.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/ammar-nousher-ali/ammar-nousher-ali/main/assets/firebase-96.png" alt="firebase" width="40" height="40"/> </a>
      <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/ammar-nousher-ali/ammar-nousher-ali/main/assets/git-96.png" alt="git" width="40" height="40"/> </a>
       <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/ammar-nousher-ali/ammar-nousher-ali/main/assets/java-96.png" alt="java" width="40" height="40"/> </a> 
       <a href="https://kotlinlang.org" target="_blank"> <img src="https://raw.githubusercontent.com/ammar-nousher-ali/ammar-nousher-ali/main/assets/kotlin-96.png" alt="kotlin" width="40" height="40"/> </a>
       <a href="https://developer.android.com/studio?gclid=EAIaIQobChMI9oXx4prG-wIVF-13Ch3kywMcEAAYASAAEgJgU_D_BwE&gclsrc=aw.ds" target="_blank"> <img src="https://raw.githubusercontent.com/ammar-nousher-ali/ammar-nousher-ali/main/assets/android-studio-96.png" alt="kotlin" width="40" height="40"/> </a>
 
-
-      <a href="https://go.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/ammar-nousher-ali/ammar-nousher-ali/main/assets/go-logo-blue.png" alt="Golang" width="40" height="40"/> </a>
-         </p>
 
 
 
