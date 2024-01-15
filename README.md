@@ -21,6 +21,9 @@ Here are some ideas to get you started:
       <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/ammar-nousher-ali/ammar-nousher-ali/main/assets/java-96.png" alt="java" width="40" height="40"/> </a> 
       <a href="https://kotlinlang.org" target="_blank"> <img src="https://raw.githubusercontent.com/ammar-nousher-ali/ammar-nousher-ali/main/assets/kotlin-96.png" alt="kotlin" width="40" height="40"/> </a>
       <a href="https://developer.android.com/studio?gclid=EAIaIQobChMI9oXx4prG-wIVF-13Ch3kywMcEAAYASAAEgJgU_D_BwE&gclsrc=aw.ds" target="_blank"> <img src="https://raw.githubusercontent.com/ammar-nousher-ali/ammar-nousher-ali/main/assets/android-studio-96.png" alt="kotlin" width="40" height="40"/> </a>
+
+
+      <a href="https://go.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/ammar-nousher-ali/ammar-nousher-ali/main/assets/go-logo-blue.png" alt="Golang" width="40" height="40"/> </a>
          </p>
 
 
