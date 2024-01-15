@@ -33,6 +33,7 @@ Here are some ideas to get you started:
      <a href="https://stackoverflow.com/users/13174552/ammar" target="_blank"> <img src="https://raw.githubusercontent.com/ammar-nousher-ali/ammar-nousher-ali/main/assets/stack-overflow-96.png" alt="firebase" width="40" height="40"/> </a>         </p>
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ammar-nousher-ali&show_icons=true&locale=en&layout=compact" alt="ammar-nousher-ali" /></p>
 
 <!--
 - 😄 Pronouns: ...
