@@ -1,46 +1,25 @@
-### Hi there 👋, Ammar nousher here
+<h1 align="center">Hi 👋, I'm Ammar nousher ali</h1>
+<h3 align="center">A Passionate Software Engineer from Pakistan</h3>
 
-<!--
-**ammar-nousher-ali/ammar-nousher-ali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+- 🔭 I’m currently working on **Ecommerce platform using Golang**
 
-<!--
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Golang**
 
-- 🔭 I’m currently working on Android Kotlin
--->
-- 🌱 I’m currently learning Android architecture components & Jetpack Compose.
-- 💬 Ask me about Android , Kotlin , Java , MVVM
-- 📫 How to reach me: ammarnousher773@gmail.com
+- 👨‍💻 All of my projects are available at [https://github.com/ammar-nousher-ali?tab=repositories](https://github.com/ammar-nousher-ali?tab=repositories)
 
-### Tools and languages:
+- 💬 Ask me about **Android, Java, Kotlin, MVVM**
 
-<p align="left"> 
-     <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/ammar-nousher-ali/ammar-nousher-ali/main/assets/android-os-48.png" alt="android" width="40" height="40"/> </a>
-     <a href="https://firebase.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/ammar-nousher-ali/ammar-nousher-ali/main/assets/firebase-96.png" alt="firebase" width="40" height="40"/> </a>
-     <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/ammar-nousher-ali/ammar-nousher-ali/main/assets/git-96.png" alt="git" width="40" height="40"/> </a>
-      <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/ammar-nousher-ali/ammar-nousher-ali/main/assets/java-96.png" alt="java" width="40" height="40"/> </a> 
-      <a href="https://kotlinlang.org" target="_blank"> <img src="https://raw.githubusercontent.com/ammar-nousher-ali/ammar-nousher-ali/main/assets/kotlin-96.png" alt="kotlin" width="40" height="40"/> </a>
-      <a href="https://developer.android.com/studio?gclid=EAIaIQobChMI9oXx4prG-wIVF-13Ch3kywMcEAAYASAAEgJgU_D_BwE&gclsrc=aw.ds" target="_blank"> <img src="https://raw.githubusercontent.com/ammar-nousher-ali/ammar-nousher-ali/main/assets/android-studio-96.png" alt="kotlin" width="40" height="40"/> </a>
+- 📫 How to reach me **ammarnousher773@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ammar-nousher-393036205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ammar-nousher-393036205" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/13174552" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13174552" height="30" width="40" /></a>
+</p>
 
-
-
-
-
-### Connect with me:
-
-<p align="left"> <a href="https://www.linkedin.com/in/ammar-nousher-393036205/" target="_blank"> <img src="https://raw.githubusercontent.com/ammar-nousher-ali/ammar-nousher-ali/main/assets/ic_linkedin-96.png" alt="android" width="40" height="40"/> </a>
-     <a href="https://stackoverflow.com/users/13174552/ammar" target="_blank"> <img src="https://raw.githubusercontent.com/ammar-nousher-ali/ammar-nousher-ali/main/assets/stack-overflow-96.png" alt="firebase" width="40" height="40"/> </a>         </p>
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ammar-nousher-ali&show_icons=true&locale=en&layout=compact" alt="ammar-nousher-ali" /></p>
 
-<!--
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-- 👯 I’m looking to collaborate on open source projects
-
-- 🤔 I’m looking for help with ...
--->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ammar-nousher-ali&show_icons=true&locale=en" alt="ammar-nousher-ali" /></p>
