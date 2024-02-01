@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ammar nousher ali</h1>
 <h3 align="center">A Passionate Software Engineer from Pakistan</h3>
+<p align="center">  
+ <a href="https://www.linkedin.com/in/ammar-nousher-393036205/">
+    <img alt="Ammar's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+<br />
 
 - 🔭 I’m currently working on **Ecommerce platform using Golang**
 
@@ -27,5 +33,25 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>   </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ammar-nousher-ali&show_icons=true&locale=en&layout=compact" alt="ammar-nousher-ali" /></p>
+<!-- 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ammar-nousher-ali&count_private=true&show_icons=true" />
+</p> 
+-->
+
+
+
+<br />
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ammar-nousher-ali&" />
+</p>
+
+
+<br />
+<p align="center" >
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ammar-nousher-ali&show_icons=true&locale=en&layout=compact" alt="ammar-nousher-ali" />
+</p>
+
 
