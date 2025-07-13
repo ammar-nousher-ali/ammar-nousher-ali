@@ -7,7 +7,7 @@
 </p>
 <br />
 
-- 🔭 I’m currently working on **Ecommerce platform using Golang**
+- 🔭 I’m currently working on **Students platform using Golang**
 
 - 🌱 I’m currently learning **Golang**
 
