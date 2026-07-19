@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ammar nousher ali</h1>
 <h3 align="center">A Passionate Software Engineer from Pakistan</h3>
 <p align="center">  
- <a href="https://www.linkedin.com/in/ammar-nousher-393036205/">
+ <a href="https://www.linkedin.com/in/ammar-nousher-ali-680382309/">
     <img alt="Ammar's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
