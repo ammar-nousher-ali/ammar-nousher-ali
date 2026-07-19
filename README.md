@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ammar-nousher-393036205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ammar-nousher-393036205" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ammar-nousher-ali-680382309/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ammar-nousher-393036205" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13174552" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13174552" height="30" width="40" /></a>
 </p>
 
